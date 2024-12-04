@@ -1,0 +1,7 @@
+librosa
+spleeter
+pydub
+matplotlib
+scipy
+soundfile
+unittest
